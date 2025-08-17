@@ -231,7 +231,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👨‍💻 Autor
 
-**Tu Nombre** - [@tu-usuario](https://github.com/tu-usuario)
+**RazorZ7X** - [@RazorZ7X](https://github.com/RazorZ7X)
 
 ## 🙏 Agradecimientos
 
@@ -239,14 +239,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 - **Bootstrap Team** por el framework CSS
 - **Font Awesome** por los iconos profesionales
 - **Comunidad Python** por el soporte continuo
-
-## 📞 Soporte
-
-Si tienes preguntas o problemas:
-
-- 📧 **Email**: tu-email@ejemplo.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/tu-usuario/gestor-tareas/issues)
-- 💬 **Discusiones**: [GitHub Discussions](https://github.com/tu-usuario/gestor-tareas/discussions)
 
 ## 🔄 Historial de Versiones
 
